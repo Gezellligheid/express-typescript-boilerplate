@@ -1,4 +1,4 @@
-b# Express Typescript Boilerplate
+# Express Typescript Boilerplate
 
 > Made by Gezellligheid\_
 
